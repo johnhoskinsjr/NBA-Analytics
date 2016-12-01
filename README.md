@@ -9,15 +9,15 @@ Many people think that Vegas is trying to predict the final score of the game, b
 ####What Is A Win Algorithm?
 If our goal is to win money betting, then having a minimum win percentage wouldn't classify an algorithm as successful. Everytime you bet the spread, you have the added risk of the juice, -110. Before you even place your bet, Vegas has an expected win percentage os 52.4%. There is a simple formula you can use to breakdown the moneyline and determine what is Vegas' expected win percentage.
 
-Negative Money Line = [-(Money Line)] / [- (Money Line) + 100]</br>
+<strong>Negative Money Line = [-(Money Line)] / [- (Money Line) + 100]</strong></br>
 
 So, to determine Vegas' expected win percent needed for the spread we can just input the -110 into the formula, and we'll output the expected win percent.</br>
 
-Vegas' Expected Win = [-(-110)]/[-(-110)+100] = 0.5238 or 52.3%</br>
+<strong>Vegas' Expected Win = [-(-110)]/[-(-110)+100] = 0.5238 or 52.3%</strong></br>
 
 If you only play the Vegas spread, then you would have to win a minimum of 52.5%, to gain a profit. Every bet can have different moneylines, representing the different expected wins for Vegas.</br></br>
 
-Positive Money Line = 100 / (Money Line + 100)</br>
+<strong>Positive Money Line = 100 / (Money Line + 100)</strong></br>
 
 ##Strategy
 
