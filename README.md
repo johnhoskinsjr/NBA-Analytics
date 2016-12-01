@@ -9,15 +9,15 @@ Many people think that Vegas is trying to predict the final score of the game, b
 ####What Is A Win Algorithm?
 If our goal is to win money betting, then having a minimum win percentage wouldn't classify an algorithm as successful. Everytime you bet the spread, you have the added risk of the juice, -110. Before you even place your bet, Vegas has an expected win percentage os 52.4%. There is a simple formula you can use to breakdown the moneyline and determine what is Vegas' expected win percentage.
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Minimum%20Win%20Percent%20%3D%20-%28Money%20Line%29%20%2F%20%28-%20%28Money%20Line%29%20%2B%20100%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Minimum Win Percent = -(Money Line) / (- (Money Line) + 100)" width="522" height="19" /> </br></br>
+Negative Money Line = [-(Money Line)] / [- (Money Line) + 100]</br>
 
-So, to determine Vegas' expected win percent needed for the spread we can just input the -110 into the formula, and we'll output the expected win percent.</br></br>
+So, to determine Vegas' expected win percent needed for the spread we can just input the -110 into the formula, and we'll output the expected win percent.</br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%5B-%28-110%29%5D%2F%5B-%28-110%29%2B100%5D%20%3D0.5238&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="[-(-110)]/[-(-110)+100] =0.5238" width="328" height="18" /></br></br>
+Vegas' Expected Win = [-(-110)]/[-(-110)+100] = 0.5238 or 52.3%</br>
 
 If you only play the Vegas spread, then you would have to win a minimum of 52.5%, to gain a profit. Every bet can have different moneylines, representing the different expected wins for Vegas.</br></br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Positive%20Money%20Line%20%3D%20100%20%2F%20%28Money%20Line%20%2B%20100%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Positive Money Line = 100 / (Money Line + 100)" width="389" height="19" /></br>
+Positive Money Line = 100 / (Money Line + 100)</br>
 
 ##Strategy
 
