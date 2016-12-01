@@ -13,7 +13,7 @@ If our goal is to win money betting, then having a minimum win percentage wouldn
 
 So, to determine Vegas' expected win percent needed for the spread we can just input the -110 into the formula, and we'll output the expected win percent.</br>
 
-<strong>Vegas' Expected Win = [-(-110)]/[-(-110)+100] = 0.5238 or 52.3%</strong></br>
+<strong>Vegas' Expected Win = [-(-110)] / [-(-110) + 100] = 0.5238 or 52.3%</strong></br>
 
 If you only play the Vegas spread, then you would have to win a minimum of 52.5%, to gain a profit. Every bet can have different moneylines, representing the different expected wins for Vegas.</br></br>
 
