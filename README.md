@@ -29,27 +29,27 @@ Third,You want to create a new worksheet that will hold multiple tables that wil
 
 ##Equation
 
-<!-- Offensive Rating -->
-
-<img src="http://www.sciweavers.org/tex2img.php?eq=Offensive%20Rating%20%3D%20%28Avg.Pts.%2FPossession%29%2A100&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Offensive Rating = (Avg.Pts./Possession)*100" width="412" height="19" />
-
 <!-- Pace -->
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Pace%20Weight%20%3D%20%28Avg.%20Possessions%2FGame%29%20%2F%20100&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Pace Weight = (Avg. Possessions/Game) / 100" width="386" height="19" />
+Pace Weight = (Avg. Possesions/Game) / 100</br>
+
+<!-- Offensive Rating -->
+
+Offensive Rating = (Avg. PPG) * Pace</br>
 
 <!-- Defensive Rating -->
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Defensive%20Rating%20%3D%20%28Avg.Pts.%2FPossession%29%2A100&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Defensive Rating = (Avg.Pts./Possession)*100" width="414" height="19" /></br>
+Defensive Rating = (Avg. Allowed PPG) * Pace</br>
 
 The defensive differential of all teams must average out to 0. I haven't seen anything larger than +/-15, which just mean on average we allow no more than 15 points on average, or prevent 15 points on average.</br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Defensive%20Differential%20%3D%20%28TeamDefensiveRating%29-%28LeagueAvg.DefensiveRating%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Defensive Differential = (TeamDefensiveRating)-(LeagueAvg.DefensiveRating)" width="712" height="19" />
+Defensive Differential = Team DR - League Avg. DR
 
 <!-- Home Edge -->
 
 There is a belief the the home edge of all teams is 3 points. This isn't entirely true. The average of all teams home edge will always equal between 2.5 and 3.5.</br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Home%20Edge%20%3D%20%28Team%20Avg.%20Home%20Pts.%29%20-%20%28Team%20Avg.%20Away%20Pts.%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Home Edge = (Team Avg. Home Pts.) - (Team Avg. Away Pts.)" width="508" height="19" />
+Home Edge = (Team Avg. Home PPG) - (Team Avg. Away PPG)
 
 <!-- Strength of Schedule -->
 
